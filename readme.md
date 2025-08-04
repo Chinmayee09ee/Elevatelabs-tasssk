@@ -42,11 +42,6 @@ A graphical calculator application built with Java Swing. This project helps you
     javac SwingCalculator.java
     java SwingCalculator
     ```
-3. For the simple/beginner calculator:
-    ```
-    javac SimpleSwingCalculator.java
-    java SimpleSwingCalculator
-    ```
 
 ### Using an IDE
 
